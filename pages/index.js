@@ -13,7 +13,7 @@ export default function Home() {
 	<p>〜My Favolites〜</p>
 	<p>SPORT : Tennis</p>
 	<p>FOOD  : Paella</p>
-	<p>MUSIC : Guitar of "bump of chicken"</p>
+	<p>MUSIC : Guitar of "Bump of Chicken"</p>
 	<p>THING : To make something</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
